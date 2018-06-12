@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "loop",
+    "description": "Record a 15 second-long multi-track clip with Loop!",
+    "slug": "loop",
+    "privacy": "unlisted",
+    "sdkVersion": "27.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "primaryColor": "#651FFF",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    }
+  }
+}
